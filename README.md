@@ -1,2 +1,2 @@
 # DBSCAN-DPC
-Code of the paper "Flexible Density Peak Clustering for Real-World Data"
+Code of the DBSCAN-DPC algorithm proposed in the paper "Flexible Density Peak Clustering for Real-World Data"
