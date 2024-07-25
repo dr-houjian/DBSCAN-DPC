@@ -1,7 +1,7 @@
 # DBSCAN-DPC
 Code of the DBSCAN-DPC algorithm proposed in the following paper
 
-Jian Hou, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data, Pattern Recognition, 110772, 2024.
+Jian Hou, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density Peak Clustering for Real-World Data, Pattern Recognition, vol. 156, 110772, December 2024.
 
 Usage
 
