@@ -1,6 +1,6 @@
 %This is the implementation of the DBSCAN-DPC algorithm proposed in
 %Jian Hou, Houshen Lin, Huaqiang Yuan, Marcello Pelillo. Flexible Density
-%Peak Clustering for Real-World Data. Pattern Recognition,110772, 2024
+%Peak Clustering for Real-World Data. Pattern Recognition, vol. 156, 110772, December2024
 
 function demo_dbscan_dpc()
 
